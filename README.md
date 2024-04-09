@@ -9,4 +9,5 @@ A parte de análise exploratória e preparação dos dados foi feita através do
     * Idade
     * Renda Anual
     * Pontuação de gastos
-A partir da primeira análise nas variáveis de interesse via resumo estatístico, inicia-se a preparação dos dados para 
+A partir da primeira análise nas variáveis de interesse via resumo estatístico, inicia-se a preparação dos dados para o algoritmo de machine learning k-means, que assim como a maioria dos modelos, espera receber as entradas na mesma escala. O que neste caso, não acontece pela própria natureza das variáveis (exemplo: idade e renda anual).
+Portanto, os dados foram convertidos através da escala logarítmica
