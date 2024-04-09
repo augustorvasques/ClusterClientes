@@ -20,6 +20,8 @@ Portanto, os dados foram convertidos através da escala logarítmica e entregues
 Por fim, o resultado da segmentação de cada cliente foi incorporada a uma nova coluna do dataframe e exportado como um novo arquivo csv. Esse arquivo agora serviu como base para a criação do dashboard onde foram representadas as características de cada grupo.
 
 ## Conclusão e insights
+![image](https://github.com/augustorvasques/ClusterClientes/assets/166548437/7000ce74-0323-4c1e-9fed-97f40eb7005f)
+
 Como conclusão, podemos observar através do dashboard que a quantidade de clientes em cada grupo é semelhante, e analisando o gráfico de média de idade de cada cluster pode-se observar que houve pouca diferença entre eles e, portanto, provavelmente não foi uma variável importante na segmentação realizada pelo modelo. Já no gráfico que mostra a média de pontuação de gastos e de renda anual de cada cluster, podemos ver grandes diferenças e ter uma ideia dos critérios de divisão adotado pelo k-means.
 
 O primeiro grupo apresenta pontuação de gastos alta enquanto possui renda média baixa. Já o segundo também possui renda média baixa mas é acompanhado por uma pontuação de gastos baixa. O terceiro, difere dos demais por possuir uma renda média alta (poder de compra) enquanto a pontuação de gastos não acompanha essa proporção, ou seja, não é tão alta quanto por exemplo do grupo 1, que possui a menor média de renda. Possivelmente, este grupo de clientes possui maior margem de crescimento nas vendas, já que sua relação gastos/renda é bem inferior aos outros 2.
