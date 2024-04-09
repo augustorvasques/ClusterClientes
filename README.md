@@ -2,6 +2,7 @@
 
 ## Descrição do projeto e definição do problema de negócio
 Projeto dedicado à análise de perfil de clientes de uma empresa, a qual desejava dividir estes em 3 categorias para melhor orientar suas campanhas, porém sem ter um critério bem definido. Com a definição do objetivo de encntrar 3 clusters para os clientes foi definida a utilização do algoritmo k-means e foi realizado o tratamento e preparação dos dados já com foco no modelo a ser utilizado numa primeira tentativa.
+(código python e dashboard do power bi estão disponíveis no repositório, assim como dados de entrada e saída do modelo em csv)
 
 ## Passo a passo
 ## Análise 
