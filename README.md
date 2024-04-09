@@ -29,4 +29,4 @@ Como conclusão, podemos observar através do dashboard que a quantidade de clie
 
 O primeiro grupo apresenta pontuação de gastos alta enquanto possui renda média baixa. Já o segundo também possui renda média baixa mas é acompanhado por uma pontuação de gastos baixa. O terceiro, difere dos demais por possuir uma renda média alta (poder de compra) enquanto a pontuação de gastos não acompanha essa proporção, ou seja, não é tão alta quanto por exemplo do grupo 1, que possui a menor média de renda. Possivelmente, este grupo de clientes possui maior margem de crescimento nas vendas, já que sua relação gastos/renda é bem inferior aos outros 2.
 
-Dessa forma, a área de marketing pode conhecer melhor seus clientes e realizar campanhas direcionadas e mais efetivas.
+Dessa forma, podemos afirmar que o modelo foi eficiente para o objeto proposto e a área de marketing pode agora conhecer melhor seus clientes e realizar campanhas direcionadas e mais efetivas.
