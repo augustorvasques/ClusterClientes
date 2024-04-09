@@ -9,4 +9,4 @@ A parte de análise exploratória e preparação dos dados foi feita através do
     * Idade
     * Renda Anual
     * Pontuação de gastos
-A partir da primeira análise nas variáveis de interesse, foi 
+A partir da primeira análise nas variáveis de interesse via resumo estatístico, inicia-se a preparação dos dados para 
